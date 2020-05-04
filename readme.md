@@ -5,5 +5,5 @@ Use the simulator [SimulIDE](https://www.simulide.com/) to view the circuit **ga
 
 ## Arudino code
 
-Load the code file **game.ino** onto the simulator and don't forgt to add the path to the arduino compiler to the file by right click on file tab and **set Compiler Path**.
+Load the code file **game.ino** onto the simulator and don't forget to add the path to the arduino compiler, by right clicking on file tab and **set Compiler Path**.
 
