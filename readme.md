@@ -1,7 +1,7 @@
 ## Simulator
 
 Use the simulator [SimulIDE](https://www.simulide.com/) to view the circuit **game.simu**.
-![Circuit Layout](https://github.com/maryamshalaby/SimulIDE-LED-Game/blob/master/Circuit.PNG)
+<br /> ![Circuit Layout](https://github.com/maryamshalaby/SimulIDE-LED-Game/blob/master/Circuit.PNG)
 
 ## Arudino code
 
